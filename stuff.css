@@ -1,0 +1,137 @@
+body
+{
+   background-image: url('http://i.imgur.com/u8XxyAX.png');
+   background-position: 30% 25%;
+}
+#paula
+{
+   position: absolute;
+   width: 470px;
+   height: 690px;
+   left: 430px;
+   top: -90px;
+}
+#paulap
+{
+   margin-right: 80px;
+}
+#jeff
+{
+   position: absolute;
+   height: 600px;
+   width: 370px;
+   left: 480px;
+}
+#jeffp
+{
+   margin-right: 100px;
+}
+#lucas
+{
+   position: absolute;
+   left: 450px;
+   top: -20px;
+   height: 550px;
+   width: 400px;
+}
+#ness
+{
+   position: absolute;
+   left: 350px;
+   top: -85px;
+   height: 700px;
+   width: 700px;
+}
+#first
+{
+   margin-right: 50px;
+}
+p
+{
+   color: white;
+   margin-left: 50px;
+   float: left;
+   font-size: 130%;
+}
+.box
+{
+   position: absolute;
+   left: 470px;
+   top: 65px;
+   width: 650px;
+   height: 550px;
+   border-radius: 3em;
+   background-color:rgba(0,0,0,0.5);
+}
+.slideWindow
+{
+   width: 650px;
+   height: 300px;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   border-radius: 3em;
+}
+.slideWindow .slide
+{
+   width: 650px;
+   height: 300px;
+   margin: 0;
+   padding: 0;
+   float: left;
+   overflow: hidden;
+   border-radius: 3em;
+}
+#left
+{
+   position:absolute;
+   display:table-cell;
+   width: 10em;
+   text-align: left;
+   top: 60px;
+   left: -50px;
+}
+#line
+{
+   position: absolute;
+   top: 76px;
+   left: 103px;
+   height: 409px;
+   width: 13px;
+   background-color: #6498CF;
+}
+li:hover
+{
+   background-color: grey;
+}
+li
+{
+   border: 0px solid black;
+   list-style-type: none;
+   padding: 1em;
+   color: white;
+   background-color: black;
+   width: 100px;
+   font-family: Georgia, serif;
+}
+#sam
+{
+   position: absolute;
+   top: -20px;
+   right: 550px;
+}
+div
+{
+   text-align:center;
+}
+#saturn
+{
+   position: absolute;
+   left: 450px;
+   height: 500px;
+   width: 500px;
+}
+#k
+{
+   border-radius: 30em;
+}
