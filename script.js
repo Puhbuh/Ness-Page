@@ -3,7 +3,7 @@ $(document).ready(function(){
  
  //chat box thing
   $('.button').click(function(){
-	 $('.new').append("<div class = 'chat'>" + $('.text').val()+'</div>');
+	 $('.new').append("<div class = 'chat'>" + $('.text').val()+ "</div>");
    });
    //cat flower thing
    var picTransition = function(){
