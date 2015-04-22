@@ -3,12 +3,6 @@ body
    background-image: url('http://i.imgur.com/u8XxyAX.png');
    background-position: 30% 25%;
 }
-.chat
-{
-   overflow: scroll;
-   border-style: solid;
-   
-}
 #paula
 {
    position: absolute;
