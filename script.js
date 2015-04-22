@@ -1,7 +1,10 @@
 var complete = function(){};
 $(document).ready(function(){
  
- 
+ //chat box thing
+  $('.button').click(function(){
+	 $('.new').append("<div>" + $('.text').val()+ "</div>");
+   });
    //cat flower thing
    var picTransition = function(){
       $('#sam').hide();
